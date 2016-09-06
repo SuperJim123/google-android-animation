@@ -11,5 +11,5 @@
 其中三个示例：
 
 ![SlidingFragments](http://7xpumq.com1.z0.glb.clouddn.com/26%20Sliding%20Fragments.gif)<br>
-![CardflipAnimation](http://7xpumq.com1.z0.glb.clouddn.com/27%20Cardflip%20Animation.gif)<br>
-![FoldingLayout](http://7xpumq.com1.z0.glb.clouddn.com/29%20Folding%20Layout.gif)<br>
+![CurvedMotion](http://7xpumq.com1.z0.glb.clouddn.com/19%20Curved%20Motion.gif)<br>
+![Anticipation](http://7xpumq.com1.z0.glb.clouddn.com/21%20Anticipation.gif)<br>
